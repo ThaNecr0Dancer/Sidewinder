@@ -1,6 +1,6 @@
 <Document>
   # Zombies
-  
+
   <Box>
     [color=#999999][italic]"They're coming to get you, Barbara!"[/italic][/color]
   </Box>
@@ -14,7 +14,7 @@
     <GuideReagentEmbed Reagent="Romerol"></GuideReagentEmbed>
   </Box>
 
-  ## Inital Infected
+  ## Initial Infected
   You are patient zero. You have [color=#7e916e]Romerol[/color] coursing through your veins and you have a grand desire to share it with every single flesh being you see.
 
   Upon learning of your infection, [italic]all bets are off[/italic]. You have only so much time before you turn, and you want to [bold]maximize your chances of taking over the station.[/bold]
@@ -23,7 +23,7 @@
   ## Transmission
   Zombies only know how to shamble, bite and throw themselves against barricades. Their bite [bold]may not always transmit [color=#7e916e]Romerol[/color][/bold] through heavy layers of clothing, but it'll definitely hurt.
 
-  The undead can also chomp on a crit or dead body to [bold]instantly convert[/bold] it to a zombie.
+  The undead can also chomp on a critical or dead body to [bold]instantly convert[/bold] it to a zombie.
 
   ## Zombie Attributes
   A zombie can be identified by dark green skin, red eyes, slow movement, rotting smell, and lack of motor functions. They'll drop their headset and gloves upon turning, and cuffs don't work against their vicious bite.
